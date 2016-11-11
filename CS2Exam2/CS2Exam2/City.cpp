@@ -7,6 +7,15 @@
 #include <fstream>
 using namespace std;
 
+// BONUS POINTS
+//Brandon, Semenuk, Antoine Bizet, Carson Storch, Kurt Sorge, Kyle Strait are RED BULL Rampage 2016 winners 
+//The other 4 are Apple Engineers
+//
+//
+//
+
+
+
 //Creates a new city with the given name
 //When the city is created you need to restore
 //it's population from a file.
