@@ -1,0 +1,7 @@
+﻿  City.cpp
+c:\users\sjohn\desktop\cs2\cs2_exam2\cs2exam2\cs2exam2\city.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjohn\desktop\cs2\cs2_exam2\cs2exam2\cs2exam2\city.cpp(84): warning C4101: 'pntr': unreferenced local variable
+c:\users\sjohn\desktop\cs2\cs2_exam2\cs2exam2\cs2exam2\city.cpp(72): warning C4700: uninitialized local variable 'asdf' used
+c:\users\sjohn\desktop\cs2\cs2_exam2\cs2exam2\cs2exam2\city.cpp(93): warning C4715: 'City::getCitizenWithId': not all control paths return a value
+  CS2Exam2.vcxproj -> C:\Users\sjohn\Desktop\CS2\CS2_Exam2\CS2Exam2\Debug\CS2Exam2.exe
+  CS2Exam2.vcxproj -> C:\Users\sjohn\Desktop\CS2\CS2_Exam2\CS2Exam2\Debug\CS2Exam2.pdb (Full PDB)
