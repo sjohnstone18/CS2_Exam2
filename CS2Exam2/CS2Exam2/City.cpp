@@ -68,11 +68,13 @@ int City::populationSize() {
 }
 
 //Returns the citizen at the given index.
-//incomplete; Not sure what you mean by index?
+//not exactly what you wanted here, so I guessed. 
 Citizen* City::getCitizenAtIndex(int index) {
-	Citizen* asdf;
-	return asdf;
+		
+			Citizen* pntr = &cityCitizen[index];
+			return pntr;
 }
+
 //Adds a citizen to this city. You will need to
 //make a copy of this citizen so that you make
 //sure to keep it around for the life of the city.
